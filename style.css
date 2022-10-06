@@ -99,7 +99,7 @@ header {
 }
 
 
-/* Decks of Magic */
+/* Painter's Pallet */
 
 section {
   width: 80%;
@@ -129,6 +129,7 @@ section {
 
 .decks img {
   max-width: 90%;
+  border-radius: 50%;
 }
 
 h4 {
